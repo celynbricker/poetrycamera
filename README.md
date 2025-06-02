@@ -1,6 +1,6 @@
-# Poetry Camera
+# Policy Lab Poetry Camera
 
-A desktop application that captures images from your webcam and generates poems about what it sees using local Llama models through Ollama.
+A desktop application that captures images from your webcam and generates poems about what it sees using local Llama models through Ollama. Code based on the work done by bokito studio!
 
 ## Features
 
