@@ -8,7 +8,6 @@ A desktop application that captures images from your webcam and generates poems 
 - Capture images and generate poems
 - Save generated poems to text files
 - Customizable model selection
-- Beautiful and intuitive user interface
 
 ## Prerequisites
 
@@ -69,11 +68,3 @@ python poetry_camera.py
 - If you get a camera error, make sure your webcam is properly connected and not in use by another application
 - If you get an Ollama connection error, make sure Ollama is running (`ollama serve`)
 - If the model is not found, make sure you've pulled the correct model (`ollama pull llama2-vision`)
-
-## License
-
-MIT License
-
-## Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request. 
